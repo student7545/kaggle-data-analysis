@@ -1,0 +1,95 @@
+Total count is 40, total Male 25, total Female 15,Male to Female ratio 1.6666666666666667
+The average age is 27.8, youngest is 21, oldest age is 35,total age: 1112 and the std deviation is 3.560466693696639
+Total count is 40, total yes count is 37, total no count is 3, ratio of yes to no count is 12.333333333333334
+for Mutual_Funds the stats are:
+The Average is 2.55, Total is 102, lowest is 1, heighest 7 and stdev is 1.1972189997378648
+
+for Equity_Market the stats are:
+The Average is 3.475, Total is 139, lowest is 1, heighest 6 and stdev is 1.1319939294935537
+
+for Debentures the stats are:
+The Average is 5.75, Total is 230, lowest is 1, heighest 7 and stdev is 1.6756169931378433
+
+for Government_Bonds the stats are:
+The Average is 4.65, Total is 186, lowest is 1, heighest 7 and stdev is 1.3690723042845379
+
+for Fixed_Deposits the stats are:
+The Average is 3.575, Total is 143, lowest is 1, heighest 7 and stdev is 1.795828499606797
+
+for PPF the stats are:
+The Average is 2.025, Total is 81, lowest is 1, heighest 6 and stdev is 1.6090688500193409
+
+for Gold the stats are:
+The Average is 5.975, Total is 239, lowest is 2, heighest 7 and stdev is 1.1432634351063984
+
+Stats for Stock_Marktet:
+No 5
+Yes 35
+
+Stats for Factor: 
+Risk 14
+Locking Period 1
+Returns 25
+
+Stats for Objective:
+Capital Appreciation 26
+Income 3
+Growth 11
+
+Stats for Purpose:
+Savings for Future 6
+Wealth Creation 32
+Returns 2
+
+Stats for Duration:
+1-3 years 18
+3-5 years 19
+Less than 1 year 2
+More than 5 years 1
+
+Stats for Invest_Monitor:
+Monthly 29
+Weekly 7
+Daily 4
+
+Stats for Expect:
+20%-30% 32
+30%-40% 5
+10%-20% 3
+
+Stats for Avenue:
+Public Provident Fund 3
+Fixed Deposits 9
+Mutual Fund 18
+Equity 10
+
+Stats for What are your savings objectives?:
+Education 3
+Retirement Plan 24
+Health Care 13
+
+Stats for Reason_Equity:
+Dividend 8
+Capital Appreciation 30
+Liquidity 2
+
+Stats for Reason_Mutual:
+Tax Benefits 3
+Fund Diversification 13
+Better Returns 24
+
+Stats for Reason_Bonds:
+Assured Returns 26
+Safe Investment 13
+Tax Incentives 1
+
+Stats for Reason_FD:
+Risk Free 19
+High Interest Rates 3
+Fixed Returns 18
+
+Stats for Source:
+Financial Consultants 16
+Internet 4
+Television 6
+Newspapers and Magazines 14
